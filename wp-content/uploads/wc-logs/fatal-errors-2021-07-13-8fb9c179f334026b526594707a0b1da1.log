@@ -1,0 +1,4 @@
+2021-07-13T07:23:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files (x86)\Ampps\www\website04.site\wp-content\themes\flatsome\inc\shortcodes\ux_hotspot.php on line 3
+
+2021-07-13T07:24:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files (x86)\Ampps\www\website04.site\wp-content\themes\flatsome\inc\woocommerce\structure-wc-product-page.php on line 3
+

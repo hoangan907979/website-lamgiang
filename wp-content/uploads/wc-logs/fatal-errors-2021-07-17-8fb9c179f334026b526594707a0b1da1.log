@@ -1,0 +1,4 @@
+2021-07-17T02:34:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files (x86)\Ampps\www\website04.site\wp-content\plugins\contact-form-7\modules\number.php on line 10
+
+2021-07-17T02:35:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files (x86)\Ampps\www\website04.site\wp-includes\Requests\Transport\cURL.php on line 462
+
